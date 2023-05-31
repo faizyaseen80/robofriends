@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&family=Rampart+One&family=Ubuntu&family=Varela+Round&display=swap');
+
+h1 {
+    font-family: 'Rampart One', cursive;
+}
+
+.scroll::-webkit-scrollbar {
+    display: none;
+  }
